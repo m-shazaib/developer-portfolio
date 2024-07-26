@@ -9,7 +9,6 @@ export const personalData = {
   github: 'https://github.com/m-shazaib/',
   linkedIn: 'https://www.linkedin.com/in/shahzaibdev/',
   twitter: 'https://twitter.com/',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/f86-sabre/",
   resume: "https://purple-vania-8.tiiny.site/"
 }
