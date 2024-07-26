@@ -1,17 +1,15 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
+  name: "Muhammad Shahzaib",
+  profile: '/profile.jpg',
   designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
+  description: "My name is Muhammad Shahzaib. I am a passionate and dedicated Computer Science student currently at Bahria University. As an enthusiastic programmer, I have honed my skills in JavaScript, TypeScript, React Native, PostgreSQL, Supabase, and Expo. I have successfully developed projects like a metro ticketing system using the MERN stack and a polling mobile app built with React Native and Supabase, deployed on Expo. I am an ICPC Regionalist with strong problem-solving abilities in C++. I am always eager to learn and explore new technologies, and I am available for job opportunities that align with my skills and interests.",
+  email: 'shahzaib.tariq041@gmail.com',
+  
+  address: 'Islamabad, Pakistan',
+  github: 'https://github.com/m-shazaib/',
+  linkedIn: 'https://www.linkedin.com/in/shahzaibdev/',
+  twitter: 'https://twitter.com/',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  leetcode: "https://leetcode.com/f86-sabre/",
+  resume: "https://purple-vania-8.tiiny.site/"
 }

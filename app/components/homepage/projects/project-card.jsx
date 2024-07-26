@@ -61,6 +61,12 @@ function ProjectCard({ project }) {
             <span className="text-cyan-400">{' ' + project.description}</span>
             <span className="text-gray-400">,</span>
           </div>
+          <div>
+            <span className="ml-4 lg:ml-8 mr-2 text-white">github:</span>
+            <span className="text-blue-400">{`'`}</span>
+            <a href={project.code} className="text-amber-300"/>
+            <span className="text-blue-400">{`',`}</span>
+          </div>
           <div><span className="text-gray-400">{`};`}</span></div>
         </code>
       </div>
