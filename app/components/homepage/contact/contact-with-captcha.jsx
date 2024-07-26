@@ -28,10 +28,6 @@ function ContactWithCaptcha() {
 
   const handleSendMail = async (e) => {
     e.preventDefault();
-    if (!captcha) {
-      toast.error('Please complete the captcha!');
-      return;
-    };
 
     if (!input.email || !input.message || !input.name) {
       setError({ ...error, required: true });
