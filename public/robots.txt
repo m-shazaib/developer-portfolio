@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mshahzaib.vercel.app/
+
+# Sitemaps
+Sitemap: https://mshahzaib.vercel.app/sitemap.xml
