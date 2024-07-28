@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
         <meta name="description" content="Explore the portfolio of Muhammad Shahzaib, a full stack developer passionate about learning new technologies and solving problems. Open to collaboration and new challenges." />
         <meta name="keywords" content="Muhammad Shahzaib, Muhammad Shahzaib Tariq, Shahzaib, Islamabad, Software Developer, Full Stack Developer, JavaScript, React Native, MERN Stack, Web Development, Mobile Development" />
         <meta name="author" content="Muhammad Shahzaib" />
-        <title>Portfolio of Muhammad Shahzaib - Software Developer</title>
+        <title>Muhammad Shahzaib: Portfolio - Software Developer</title>
       </head>
       <body className={inter.className}>
         <ToastContainer />
