@@ -11,15 +11,18 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Portfolio of Muhammad Shahzaib - Software Developer",
-  description:
-    "This is the portfolio of Muhammad Shahzaib. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+  description: "Explore the portfolio of Muhammad Shahzaib, a full stack developer passionate about learning new technologies and solving problems. Open to collaboration and new challenges.",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-      <meta name="google-site-verification" content="0OOQ1LA27Ro5drsl81u-P1O19KquM-w-3yIt0UwN0zg" />
+        <meta name="google-site-verification" content="0OOQ1LA27Ro5drsl81u-P1O19KquM-w-3yIt0UwN0zg" />
+        <meta name="description" content="Explore the portfolio of Muhammad Shahzaib, a full stack developer passionate about learning new technologies and solving problems. Open to collaboration and new challenges." />
+        <meta name="keywords" content="Muhammad Shahzaib, Muhammad Shahzaib Tariq, Shahzaib, Islamabad, Software Developer, Full Stack Developer, JavaScript, React Native, MERN Stack, Web Development, Mobile Development" />
+        <meta name="author" content="Muhammad Shahzaib" />
+        <title>Portfolio of Muhammad Shahzaib - Software Developer</title>
       </head>
       <body className={inter.className}>
         <ToastContainer />
@@ -29,8 +32,8 @@ export default function RootLayout({ children }) {
           <ScrollToTop />
         </main>
         <Footer />
+        <GoogleTagManager gtmId={process.env.NEXT_PUBLIC_GTM} />
       </body>
-      <GoogleTagManager gtmId={process.env.NEXT_PUBLIC_GTM} />
     </html>
   );
 }

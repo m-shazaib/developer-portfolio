@@ -10,5 +10,6 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/shahzaibdev/',
   twitter: 'https://twitter.com/',
   leetcode: "https://leetcode.com/f86-sabre/",
-  resume: "https://purple-vania-8.tiiny.site/"
+  resume: "https://purple-vania-8.tiiny.site/",
+  medium: 'https://medium.com/@shazaib3742',
 }
