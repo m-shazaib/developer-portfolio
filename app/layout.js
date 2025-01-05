@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <meta name="google-site-verification" content="" />
+        <meta name="google-site-verification" content="0OOQ1LA27Ro5drsl81u-P1O19KquM-w-3yIt0UwN0zg" />
         <meta
           name="description"
           content="Explore Muhammad Shahzaib's portfolio, a skilled React Native and Front End Developer based in Islamabad. Specializing in mobile app development and open to new challenges."
